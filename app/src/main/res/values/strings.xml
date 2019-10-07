@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DevDeeds</string>
+    <string name="notification_activity_label">Notification</string>
+    <string name="reply_label">Click here to reply</string>
+</resources>
